@@ -76,6 +76,8 @@ For hardware implementation, Android sends control commands to Raspberry Pi thro
 
 **SMART HOME APPLIANCE MONITORING AND CONTROL SYSTEM**
 
+<img width="2076" height="2152" alt="oops 5" src="https://github.com/user-attachments/assets/12b9fc45-71e6-43e2-aca2-59cfe0a97f70" />
+
 ## 7. APPLICATION FEATURES
 - User-friendly graphical interface.
 - Monitor the operating status of home appliances.
